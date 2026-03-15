@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🐨 Flávio Corcini
 
-<!--
-**FaddyGraph/FaddyGraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **`🎓 Engenharia da Computação @ CEFET-MG`**
 
-Here are some ideas to get you started:
+Sou um estudante focado no desenvolvimento de software, busco transformar conceitos teóricos em soluções práticas e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⌨️ Principais lingagens estudadas
+
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="40px"/>
+</div>
+
+### 🛠️ Principais frameworks e ferramentas estudados
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring Boot" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40px"/>
+</div>
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaddyGraph&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaddyGraph&layout=donut&theme=dark&include_all_commits=true" alt="Top Langs" />
+</div>
+
+---
+### 📨 Contatos
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flávio-corcini-de-oliveira-samora-6a9187273)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviosamora06@gmail.com)
+
