@@ -1,5 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=8a2be2&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
-# 🐨 Flávio Corcini
+<h1 align="center">
+🐨 Flávio Corcini
+</h1>
 
 ### **`🎓 Engenharia da Computação @ CEFET-MG`**
 
