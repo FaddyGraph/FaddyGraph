@@ -34,8 +34,10 @@ Sou um estudante focado no desenvolvimento de software, busco transformar concei
 
 <div>
     <img src="https://streak-stats.demolab.com?user=FaddyGraph&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180em" alt="streak graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaddyGraph&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaddyGraph&layout=donut&theme=dark&include_all_commits=true" alt="Top Langs" />
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaddyGraph&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaddyGraph&layout=donut&theme=dark&include_all_commits=true" alt="Top Langs" />
+    </div>
 </div>
 
 ---
