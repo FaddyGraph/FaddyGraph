@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=8a2be2&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
 <h1 align="center">
-🐨 Flávio Corcini
+Flávio Corcini
 </h1>
 
 ### **`🎓 Engenharia da Computação @ CEFET-MG`**
@@ -16,9 +16,6 @@ Estudante de Engenharia da Computação focado em desenvolvimento de software e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" title="python" width="40px" >        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" title="JS" width="40px"/>
 </div>
 
 ### 🛠️ Principais frameworks e ferramentas estudados
@@ -26,8 +23,6 @@ Estudante de Engenharia da Computação focado em desenvolvimento de software e 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring Boot" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" alt="Angular" title="Angular" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40px"/>
 </div>
 
 ---
