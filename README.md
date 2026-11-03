@@ -1,41 +1,33 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=8a2be2&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
-<h1 align="center">
-Flávio Corcini
-</h1>
+<h1 align="center">Flávio Corcini</h1>
 
-### **`🎓 Engenharia da Computação @ CEFET-MG`**
+<h3 align="left">Engenharia da Computação @ CEFET-MG | Back-end Developer</h3>
 
-Estudante de Engenharia da Computação focado em desenvolvimento de software e arquitetura backend. Busco aplicar conceitos fundamentais de algoritmos, estruturas de dados e múltiplos paradigmas de programação para construir sistemas limpos, eficientes e de alto desempenho. Motivado por resolver problemas complexos, traduzo teoria rigorosa em soluções de software estruturadas e práticas para o mundo real.
+&nbsp;&nbsp;&nbsp;&nbsp; Estudante de Engenharia da Computação no CEFET-MG, com direcionamento para desenvolvimento Back-end. Dedico-me à construção de APIs REST, arquitetura e modelagem de sistemas utilizando a stack Java e Spring Framework. Possuo foco em algoritmos, estruturas de dados e resolução de problemas, aplicando esses fundamentos para escrever código limpo, estruturado e escalável.
 
 ---
 
-### ⌨️ Principais lingagens estudadas
+### 💻 Tecnologias e Ferramentas
 
-
-<div>
+**Linguagens** <br>
+- <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" title="python" width="40px" >        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="40px"/>
 </div>
 
-### 🛠️ Principais frameworks e ferramentas estudados
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40px"/>
+**Frameworks & Back-end** <br>
+- <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring Boot" width="40px"/>
 </div>
 
----
-
-### 📊 Estatísticas e Atividade
-<div align="center">
-     <!-- <img src="https://streak-stats.demolab.com?user=FaddyGraph&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" /> -->
-    <br><br>  
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FaddyGraph&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=2" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FaddyGraph&layout=donut&theme=dark&include_all_commits=true&v=2" height="180" alt="Top Langs" />
+**Ferramentas & Versionamento** <br>
+- <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40px"/>
 </div>
 
 ---
+
 ### 📨 Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-corcini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviosamora06@gmail.com)
